@@ -6,13 +6,13 @@ import re
 SOURCE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'src'))
 
 libs = [
-    'libbitcoin_cli',
-    'libbitcoin_common',
-    'libbitcoin_crypto',
-    'libbitcoin_server',
-    'libbitcoin_util',
-    'libbitcoin_wallet',
-    'libbitcoin_zmq',
+    'libsantabit_cli',
+    'libsantabit_common',
+    'libsantabit_crypto',
+    'libsantabit_server',
+    'libsantabit_util',
+    'libsantabit_wallet',
+    'libsantabit_zmq',
 ]
 
 ignore_list = [
