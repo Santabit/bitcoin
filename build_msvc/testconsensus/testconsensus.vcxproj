@@ -24,7 +24,7 @@
     <ProjectGuid>{E78473E9-B850-456C-9120-276301E04C06}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>testconsensus</RootNamespace>
-    <ProjectName>test_libbitcoinconsensus</ProjectName>
+    <ProjectName>test_libsantabitconsensus</ProjectName>
     <VcpkgTriplet Condition="'$(Platform)'=='Win32'">x86-windows-static</VcpkgTriplet>
     <VcpkgTriplet Condition="'$(Platform)'=='x64'">x64-windows-static</VcpkgTriplet>
   </PropertyGroup>
